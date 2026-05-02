@@ -1,0 +1,6 @@
+{
+    "resource": "distortionz_picklocks",
+    "version": "1.0.0",
+    "changelog": "Initial release. Pick locked vehicles anywhere, unlock vehicles, search vehicles for cash/items/dirty money, high police risk alerts, lockpick break chance, vehicle robbery tracking, and Distortionz Notify support.",
+    "download": "https://github.com/Distortionzz/Distortionz_Picklocks"
+}
