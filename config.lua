@@ -3,7 +3,7 @@ Config = {}
 Config.Debug = false
 
 Config.ResourceName = 'distortionz_picklocks'
-Config.CurrentVersion = '1.0.0'
+Config.CurrentVersion = '1.0.1'
 
 Config.VersionCheck = {
     enabled = true,

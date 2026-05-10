@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Distortionz'
 description 'Distortionz Picklocks - Pick locked vehicles and rob/search them'
-version '1.0.0'
+version '1.0.1'
 
 lua54 'yes'
 
