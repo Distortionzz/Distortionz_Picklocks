@@ -578,5 +578,10 @@ end)
 
 CreateThread(function()
     Wait(1000)
-    print(('[%s] Server callbacks loaded successfully.'):format(Config.ResourceName))
+    print(('^5[%s]^7 ^2v%s loaded — successChance=%d%%/%d%% (normal/adv)^7'):format(
+        Config.ResourceName,
+        Config.CurrentVersion,
+        Config.Picklock.normalSuccessChance,
+        Config.Picklock.advancedSuccessChance
+    ))
 end)
